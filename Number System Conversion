@@ -1,0 +1,9 @@
+// To convert a decimal number to binary
+
+let num = 10 ;
+console.log(parseInt(num.toString(2))) //1010
+
+// To convert a binary number into decimal
+
+let num = 1010 ;
+console.log(parseInt(num,2)) //10
